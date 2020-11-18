@@ -1,0 +1,13 @@
+C:\Users\giian\Desktop\aula 18.11\att2\bin\Debug\netcoreapp3.1\att2.exe
+C:\Users\giian\Desktop\aula 18.11\att2\bin\Debug\netcoreapp3.1\att2.deps.json
+C:\Users\giian\Desktop\aula 18.11\att2\bin\Debug\netcoreapp3.1\att2.runtimeconfig.json
+C:\Users\giian\Desktop\aula 18.11\att2\bin\Debug\netcoreapp3.1\att2.runtimeconfig.dev.json
+C:\Users\giian\Desktop\aula 18.11\att2\bin\Debug\netcoreapp3.1\att2.dll
+C:\Users\giian\Desktop\aula 18.11\att2\bin\Debug\netcoreapp3.1\att2.pdb
+C:\Users\giian\Desktop\aula 18.11\att2\obj\Debug\netcoreapp3.1\att2.csprojAssemblyReference.cache
+C:\Users\giian\Desktop\aula 18.11\att2\obj\Debug\netcoreapp3.1\att2.AssemblyInfoInputs.cache
+C:\Users\giian\Desktop\aula 18.11\att2\obj\Debug\netcoreapp3.1\att2.AssemblyInfo.cs
+C:\Users\giian\Desktop\aula 18.11\att2\obj\Debug\netcoreapp3.1\att2.csproj.CoreCompileInputs.cache
+C:\Users\giian\Desktop\aula 18.11\att2\obj\Debug\netcoreapp3.1\att2.dll
+C:\Users\giian\Desktop\aula 18.11\att2\obj\Debug\netcoreapp3.1\att2.pdb
+C:\Users\giian\Desktop\aula 18.11\att2\obj\Debug\netcoreapp3.1\att2.genruntimeconfig.cache

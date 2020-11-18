@@ -1,0 +1,13 @@
+C:\Users\giian\Desktop\aula 18.11\att1\obj\Debug\netcoreapp3.1\att1.csprojAssemblyReference.cache
+C:\Users\giian\Desktop\aula 18.11\att1\obj\Debug\netcoreapp3.1\att1.AssemblyInfoInputs.cache
+C:\Users\giian\Desktop\aula 18.11\att1\obj\Debug\netcoreapp3.1\att1.AssemblyInfo.cs
+C:\Users\giian\Desktop\aula 18.11\att1\obj\Debug\netcoreapp3.1\att1.csproj.CoreCompileInputs.cache
+C:\Users\giian\Desktop\aula 18.11\att1\bin\Debug\netcoreapp3.1\att1.exe
+C:\Users\giian\Desktop\aula 18.11\att1\bin\Debug\netcoreapp3.1\att1.deps.json
+C:\Users\giian\Desktop\aula 18.11\att1\bin\Debug\netcoreapp3.1\att1.runtimeconfig.json
+C:\Users\giian\Desktop\aula 18.11\att1\bin\Debug\netcoreapp3.1\att1.runtimeconfig.dev.json
+C:\Users\giian\Desktop\aula 18.11\att1\bin\Debug\netcoreapp3.1\att1.dll
+C:\Users\giian\Desktop\aula 18.11\att1\bin\Debug\netcoreapp3.1\att1.pdb
+C:\Users\giian\Desktop\aula 18.11\att1\obj\Debug\netcoreapp3.1\att1.dll
+C:\Users\giian\Desktop\aula 18.11\att1\obj\Debug\netcoreapp3.1\att1.pdb
+C:\Users\giian\Desktop\aula 18.11\att1\obj\Debug\netcoreapp3.1\att1.genruntimeconfig.cache

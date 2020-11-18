@@ -13,7 +13,7 @@ namespace fibonacci
 
             for (int i = 0; i < num; i++){
             z = x + y;
-            Console.WriteLine(z);
+            Console.Write( z + " ,");
             y = x;
             x = z;
                 }

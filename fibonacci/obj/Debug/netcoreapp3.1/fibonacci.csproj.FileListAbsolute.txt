@@ -1,0 +1,13 @@
+C:\Users\giian\Desktop\aula 18.11\fibonacci\bin\Debug\netcoreapp3.1\fibonacci.exe
+C:\Users\giian\Desktop\aula 18.11\fibonacci\bin\Debug\netcoreapp3.1\fibonacci.deps.json
+C:\Users\giian\Desktop\aula 18.11\fibonacci\bin\Debug\netcoreapp3.1\fibonacci.runtimeconfig.json
+C:\Users\giian\Desktop\aula 18.11\fibonacci\bin\Debug\netcoreapp3.1\fibonacci.runtimeconfig.dev.json
+C:\Users\giian\Desktop\aula 18.11\fibonacci\bin\Debug\netcoreapp3.1\fibonacci.dll
+C:\Users\giian\Desktop\aula 18.11\fibonacci\bin\Debug\netcoreapp3.1\fibonacci.pdb
+C:\Users\giian\Desktop\aula 18.11\fibonacci\obj\Debug\netcoreapp3.1\fibonacci.csprojAssemblyReference.cache
+C:\Users\giian\Desktop\aula 18.11\fibonacci\obj\Debug\netcoreapp3.1\fibonacci.AssemblyInfoInputs.cache
+C:\Users\giian\Desktop\aula 18.11\fibonacci\obj\Debug\netcoreapp3.1\fibonacci.AssemblyInfo.cs
+C:\Users\giian\Desktop\aula 18.11\fibonacci\obj\Debug\netcoreapp3.1\fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\giian\Desktop\aula 18.11\fibonacci\obj\Debug\netcoreapp3.1\fibonacci.dll
+C:\Users\giian\Desktop\aula 18.11\fibonacci\obj\Debug\netcoreapp3.1\fibonacci.pdb
+C:\Users\giian\Desktop\aula 18.11\fibonacci\obj\Debug\netcoreapp3.1\fibonacci.genruntimeconfig.cache

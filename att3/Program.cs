@@ -21,16 +21,16 @@ namespace att3
                 Console.WriteLine("Digite seu Salario:");
                 salario = float.Parse(Console.ReadLine());
 
-                Console.WriteLine("Digite seu Estado Civil: sol - Solteiro; cas - Casado; viu - Viuvo; di - Divorciada");
+                Console.WriteLine("Digite seu Estado Civil: s - Solteiro; c - Casado; v - Viuvo; d - Divorciada");
                 estadoCivil = (Console.ReadLine());
 
-                if(nome == ""){Console.WriteLine("Defina um nome valido"); nome = "null";}
+                if(nome == ""){Console.WriteLine("Defina um nome valido"); nome = "";}
 
                 if(idade < 0 || idade >150){ Console.WriteLine("Defina uma idade valido"); idade = 1;}
 
                 if(salario == 0){ Console.WriteLine("Defina um salario valido"); salario = 0;}
 
-                if(estadoCivil == "sol" || estadoCivil == "cas" || estadoCivil == "viu" || estadoCivil == "di"){}
+                if(estadoCivil == "s" || estadoCivil == "c" || estadoCivil == "v" || estadoCivil == "d"){}
                 
                 else{
                     Console.WriteLine("Defina um estado civil valido");
